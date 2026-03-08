@@ -4,4 +4,4 @@ qrcode
 pillow
 openpyxl
 streamlit-extras
-opencv-python
+opencv-python-headless
